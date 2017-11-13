@@ -21,6 +21,8 @@ It's always fun to suggest silly names to pending parents. Why not science it up
 - [Meme](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Meme)
 - [Kong](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Kong)
 - [Nugga](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Nugga)
+- [Ganja](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Ganja)
+
 
 ### Boys
 
@@ -32,6 +34,7 @@ It's always fun to suggest silly names to pending parents. Why not science it up
 ### Both
 
 - [Amen](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Amen)
+- [Min](https://ast.dk/born-familie/navne/navnelister/godkendte-fornavne#?gendermask=3&published&name=Min)
 
 
 ## License
